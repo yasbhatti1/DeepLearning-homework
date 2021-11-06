@@ -12,6 +12,10 @@ Q: Which window size works best for the model?
 A: I tested many different combinations for training and testing models. I achieved best results by using window size =10, number units = 20, 
    dropout fraction = 0.2, epochs=10, and batch size=2.
 
-Here is the HVPLOt, which didn't render on github...
 
-![fig1][fig1.png]
+Here are the HVPLOTs, which didn't render on github...
+
+
+![fig-1](images/fig_1.png)
+![fig-2](images/fig_2.png)
+
